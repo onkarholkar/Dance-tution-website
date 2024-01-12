@@ -1,0 +1,15 @@
+{
+  "name": "priti-dance-academy",
+  "version": "1.0.0",
+  "description": "This popular website for dance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onkar Holkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
